@@ -1,0 +1,7 @@
+1.First Code Run
+2.Js Comments
+3.Js Variable
+4.Data Type (primitive , non primitive)
+5.Js Operator
+6.js if else , switch case 
+7.js loop
